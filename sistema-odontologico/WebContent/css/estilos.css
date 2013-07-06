@@ -1,0 +1,6 @@
+.contenedor_login{box-shadow: 7px 7px 8px #818181;
+-webkit-box-shadow: 7px 7px 8px #818181;
+-moz-box-shadow: 7px 7px 8px #818181;
+filter: progid:DXImageTransform.Microsoft.dropShadow(color=#818181, offX=7, offY=7, positive=true);
+width:450px;color:#ccc;padding:5px;background:#333; border:1px solid #000; height: 100px;
+}
